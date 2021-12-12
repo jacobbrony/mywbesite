@@ -72,6 +72,21 @@ color: #b2ebe6;
 text-decoration: underline;
 }
 
+.center {
+	text-align: center;
+  }
+
+  footer {
+	border-top-style: solid;
+	border-width: 1px;
+	padding: 35px 0;
+  }
+
+  * {
+	box-sizing: border-box;
+  }
+  
+
 .highlight .hll { background-color: #ffffcc }
 .highlight .c { color: #60a0b0; font-style: italic } /* Comment */
 .highlight .err { border: 1px solid #FF0000 } /* Error */
