@@ -67,6 +67,11 @@ footer {
 	display: inline;
 }
 
+a:link {
+color: #b2ebe6;
+text-decoration: underline;
+}
+
 .highlight .hll { background-color: #ffffcc }
 .highlight .c { color: #60a0b0; font-style: italic } /* Comment */
 .highlight .err { border: 1px solid #FF0000 } /* Error */
